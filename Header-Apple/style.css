@@ -95,11 +95,4 @@ input {
   display: none;
 }
 
-.scuare {
-  height: 50px;
-  width: 50px;
-  background-color: rgb(0, 0, 0);
-  position: relative;
-  left: 50%;
-  top: 100px;
-}
+
